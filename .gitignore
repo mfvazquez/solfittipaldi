@@ -1,0 +1,8 @@
+/public/
+/resources/
+
+.hugo_build.lock
+
+go.sum
+go.mod
+hugo_stats.json
