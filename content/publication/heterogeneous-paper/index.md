@@ -2,7 +2,6 @@
 title: Heterogeneous factors influence social cognition across diverse settings in
   brain health and age-related diseases
 date: '2024-01-01'
-draft: true
 publishDate: '2024-11-12T17:55:53.971180Z'
 authors:
 - Sol Fittipaldi
