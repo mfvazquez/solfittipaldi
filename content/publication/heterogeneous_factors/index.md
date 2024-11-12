@@ -16,8 +16,6 @@ authors:
 - Josefina Castillo
 - Patricia Lillo
 - ' others'
-publication_types:
-- '2'
 abstract: ''
 featured: true
 publication: '*Nature Mental Health*'
